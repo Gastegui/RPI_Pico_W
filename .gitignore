@@ -1,0 +1,12 @@
+# Directories
+*/*/.idea
+*/*/.vscode
+*/*/build
+*/*/cmake-build-debug
+Py
+C++/Grande/sd/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico
+C/Grande/sd/no-OS-FatFS-SD-SDIO-SPI-RPi-Pico
+
+#Files
+secretos.cmake
+*.pdf
